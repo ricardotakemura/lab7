@@ -1,4 +1,4 @@
-# Histórias
+# API Platform Starter - Histórias
 
 - Eu, como desenvolvedor, gostaria de uma interface gráfica onde consiga gerenciar os dockers da api-platform.
 - Eu, como desenvolvedor, gostaria de iniciar todos os dockers do api-platform com um clique.
